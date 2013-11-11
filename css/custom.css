@@ -1,6 +1,13 @@
-.imgbg h2{
+.imgbg h2, .imgbg p{
 	background: #000;
-	display: inline-block;
-	padding: 8px 16px;
+	padding: 5px 10px;
 	float: right;
+	font-family: 'Courier New';
+	text-align: right;
+	clear: both;
+
+	text-transform: uppercase;
 }
+
+.imgbg p{ font-size: 30px; }
+.imgbg h2{ font-size: 50px; }
