@@ -22,3 +22,12 @@
 	background: none;
 	box-shadow: none;
 }
+
+.overlay{
+	position: absolute;
+	right: 16px;
+	top: 16px;
+	max-width: 200px;
+	opacity: 0.5;
+	z-index: 1000;
+}
